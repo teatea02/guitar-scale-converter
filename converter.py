@@ -1,3 +1,7 @@
+# 2020.09.27
+# Guitar Scale Converter
+# taewook Nam
+
 import sys
 
 class Converter:
